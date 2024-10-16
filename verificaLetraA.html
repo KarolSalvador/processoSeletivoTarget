@@ -1,0 +1,29 @@
+<!-- 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
+
+IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; -->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Verificador de Letra 'A'</title>
+    <script>
+        function verificaLetra() {
+            const frase = prompt("Por favor, informe a frase para verificação:");
+            const regex = /a/gi; 
+            const encontraLetra = frase.match(regex); 
+
+            if (encontraLetra) {
+                const quantidade = encontraLetra.length;
+                alert(`A letra 'a' aparece ${quantidade} vezes na frase.`);
+            } else {
+                alert("A letra 'a' NÃO aparece na frase.");
+            }
+        }
+        verificaLetra();
+    </script>
+</head>
+<body>
+    <h1>Verificador de Letra 'A'</h1>
+</body>
+</html>

@@ -1,0 +1,27 @@
+
+        a) 1, 3, 5, 7, ___ : ímpares
+        resposta correta será 9, pois é o próximo número ímpar.
+        
+
+        b) 2, 4, 8, 16, 32, 64, ____ Potências de 2
+        resposta será 128 pois o próximo será dois a sétima.
+        2*2*2*2*2*2*2 = 128
+        
+
+        c) 0, 1, 4, 9, 16, 25, 36, ____ Quadrados perfeitos: resposta correta 49 que será 7 ao quadrado. 7 * 7 = 49
+        
+
+        d) 4, 16, 36, 64, ____ Quadrados pares
+        resposta 100
+        próximo número par seria 10 ao quadrado. 10*10 = 100
+        
+
+        e) 1, 1, 2, 3, 5, 8, ____ Sequência de Fibonacci
+        resposta correta 13.
+        Será a soma dos dois últimos números 5 + 8 = 13
+       
+
+        f) 2,10, 12, 16, 17, 18, 19, ____ 
+        resposta será 20, considerando que após certos incrementos a sequência seguiu um padrão de incrementar apenas 1.
+        
+
